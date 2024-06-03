@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: PythonInDigitalAg
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: J. V.
+    family-names: Krogmeier
+    email: jvk@purdue.edu
+    affiliation: Purdue University
+    orcid: 'https://orcid.org/0000-0001-7041-2113'
+  - given-names: Sneha
+    family-names: Jha
+    email: jha16@purdue.edu
+    affiliation: Purdue University
+    orcid: 'https://orcid.org/0009-0005-5768-7805'
+  - given-names: A. D.
+    family-names: Balmos
+    email: abalmos@purdue.edu
+    affiliation: Purdue University
+    orcid: 'https://orcid.org/0000-0001-7208-3974'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8328073
+abstract: A Python tutorial for Digital Agriculture
+license: MIT
