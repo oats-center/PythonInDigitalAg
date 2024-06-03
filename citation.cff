@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Krogmeier
+    given-names: J. V.
+    orcid: https://orcid.org/0000-0001-7041-2113
+  - family-names: Jha
+    given-names: Sneha
+    orcid: https://orcid.org/0009-0005-5768-7805
+  - family-names: Krogmeier
+    given-names: J. V.
+    orcid: https://orcid.org/0000-0001-7208-3974
+title: "PythonInDigitalAg"
+version: 2.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8328073
+date-released: 2024-06-03
