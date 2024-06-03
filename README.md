@@ -19,4 +19,4 @@ Reference selected for the paper:
  [Video tutorial on Demonstration Workbook 4](https://youtu.be/JtbCXUeL688)  
 
 **Note to Instrcutors**
-you may use the course videos to guide the students through the workbooks in similar style.
+you may use similar style to guide the students through the workbooks .
