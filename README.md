@@ -12,3 +12,11 @@ Reference selected for the paper:
 [Create your GitHub profile](https://youtu.be/ZhHDfZ-l7ZU?si=RXl7QwyR8WxIiLbg)  
 [Fork a GitHub repository](https://youtu.be/ZB9VgHFqqXU?si=ZaZ-V5kLYc3gZWrn)  
 [Commit changes to your repository](https://youtu.be/nT1NPCyTtyo?si=ObX0uZTESoEN-BJJ)  
+
+### We have added two videos explaining parts of Demonstration Workbooks 2 and 4.
+
+ [Video tutorial on Demonstration Workbook 2](https://youtu.be/0KHdMqQzisk)  
+ [Video tutorial on Demonstration Workbook 4](https://youtu.be/JtbCXUeL688)  
+
+**Note to Instrcutors**
+you may use the course videos to guide the students through the workbooks in similar style.
